@@ -1,0 +1,24 @@
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\bin\Debug\net6.0\BienesRaices.Models.deps.json
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\bin\Debug\net6.0\BienesRaices.Models.dll
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\bin\Debug\net6.0\BienesRaices.Models.pdb
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.dll
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\refint\BienesRaices.Models.dll
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.pdb
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\ref\BienesRaices.Models.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\bin\Debug\net6.0\BienesRaices.Models.deps.json
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\bin\Debug\net6.0\BienesRaices.Models.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\bin\Debug\net6.0\BienesRaices.Models.pdb
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.csproj.AssemblyReference.cache
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.AssemblyInfoInputs.cache
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.AssemblyInfo.cs
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.csproj.CoreCompileInputs.cache
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\refint\BienesRaices.Models.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\BienesRaices.Models.pdb
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Models\obj\Debug\net6.0\ref\BienesRaices.Models.dll

@@ -1,0 +1,94 @@
+﻿@model BienesRaices.Models.ViewsModels.PropiedadVM
+@{
+    ViewData["Title"] = "Crear Propiedades";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h1 class="text-center my-4">Nueva Propiedad</h1>
+
+    <form asp-action="Create" class="mb-5" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly"></div>
+        <div class="row">
+            <div class="col-12 col-md-6 offset-md-3 shadow p-3 rounded-3 ">
+                <div class="mb-2">
+                    <label asp-for="Propiedade.Titulo" class="form-label text-uppercase fw-bold"></label>
+                    <input asp-for="Propiedade.Titulo" type="text" class="form-control" placeholder="Nombre del Titulo" />
+                    <span asp-validation-for="Propiedade.Titulo" class="text-danger"></span>
+                </div>
+                <div class="mb-2">
+                    <label asp-for="Propiedade.Habitaciones" class="form-label text-uppercase fw-bold"></label>
+                    <input asp-for="Propiedade.Habitaciones" type="number" value="" class="form-control" placeholder="0" />
+                    <span asp-validation-for="Propiedade.Habitaciones" class="text-danger"></span>
+                </div>
+                <div class="mb-2">
+                    <label asp-for="Propiedade.Bano" class="form-label text-uppercase fw-bold"></label>
+                    <input asp-for="Propiedade.Bano" type="number" value="" class="form-control" placeholder="0" />
+                    <span asp-validation-for="Propiedade.Bano" class="text-danger"></span>
+                </div>
+                <div class="mb-2">
+                    <label asp-for="Propiedade.Estacionamiento" class="form-label text-uppercase fw-bold"></label>
+                    <input asp-for="Propiedade.Estacionamiento" type="number" value="" class="form-control" placeholder="0" />
+                    <span asp-validation-for="Propiedade.Estacionamiento" class="text-danger"></span>
+                </div>
+                <div class="mb-2">
+                    <label asp-for="Propiedade.Precio" class="form-label text-uppercase fw-bold"></label>
+                    <input asp-for="Propiedade.Precio" type="number" value="" class="form-control" placeholder="$0.00" />
+                    <span asp-validation-for="Propiedade.Precio" class="text-danger"></span>
+                </div>
+                <div class="mb-2">
+                    <label asp-for="Propiedade.DescripcionCorta" class="form-label text-uppercase fw-bold"></label>
+                    <input asp-for="Propiedade.DescripcionCorta" type="text" class="form-control" placeholder="Descripcion" />
+                    <span asp-validation-for="Propiedade.DescripcionCorta" class="text-danger"></span>
+                </div>
+                <div class="mb-2">
+                    <label asp-for="Propiedade.Vendedor.Nombre" class="form-label text-uppercase fw-bold"></label>
+                    @Html.DropDownListFor(v => v.Propiedade.IdVendedor,Model.ListaVendedor,"Seleccione Vendedor", new {@class = "form-control"})
+                    <span asp-validation-for="Propiedade.IdVendedor" class="text-danger"></span>
+                </div>
+                <div class="mb-2">
+                    <label asp-for="Propiedade.ImagenUrl" class="form-label text-uppercase fw-bold"></label>
+                    <input asp-for="Propiedade.ImagenUrl" id="imagenValidar" type="file" name="files" multiple class="form-control" />
+                    <span asp-validation-for="Propiedade.ImagenUrl" class="text-danger"></span>
+                </div>
+                <div class="mb-2">
+                    <label asp-for="Propiedade.DescripcionLarga" class="form-label text-uppercase fw-bold"></label>
+                    <textarea asp-for="Propiedade.DescripcionLarga" class="form-control" id="summernote"></textarea>
+                    <span asp-validation-for="Propiedade.DescripcionLarga" class="text-danger"></span>
+                </div>
+                <div>
+                    <button type="submit" onclick="return ValidarImagen()" class="btn btn-primary"><i class="fa-solid fa-floppy-disk"></i> Guardar</button>
+                    <a asp-action="Index" class="btn btn-outline-secondary"><i class="fa-solid fa-arrow-left"></i> Regresar</a>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"></partial>
+
+    <script>
+        $(document).ready(function () {
+            $('#summernote').summernote({
+                height: 100
+            });
+        });
+    </script>
+
+    <script>
+
+        function ValidarImagen(){
+            if (document.getElementById("imagenValidar").value == "") {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Imagen',
+                    text: 'Seleccione una Imagen!'
+                })
+                return false;
+            }
+        }
+
+    </script>
+}
+

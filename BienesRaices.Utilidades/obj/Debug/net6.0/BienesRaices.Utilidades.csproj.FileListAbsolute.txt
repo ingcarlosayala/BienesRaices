@@ -1,0 +1,24 @@
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\bin\Debug\net6.0\BienesRaices.Utilidades.deps.json
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\bin\Debug\net6.0\BienesRaices.Utilidades.dll
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\bin\Debug\net6.0\BienesRaices.Utilidades.pdb
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.dll
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\refint\BienesRaices.Utilidades.dll
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.pdb
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\ref\BienesRaices.Utilidades.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\bin\Debug\net6.0\BienesRaices.Utilidades.deps.json
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\bin\Debug\net6.0\BienesRaices.Utilidades.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\bin\Debug\net6.0\BienesRaices.Utilidades.pdb
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.csproj.AssemblyReference.cache
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.AssemblyInfoInputs.cache
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.AssemblyInfo.cs
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.csproj.CoreCompileInputs.cache
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\refint\BienesRaices.Utilidades.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\BienesRaices.Utilidades.pdb
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.Utilidades\obj\Debug\net6.0\ref\BienesRaices.Utilidades.dll

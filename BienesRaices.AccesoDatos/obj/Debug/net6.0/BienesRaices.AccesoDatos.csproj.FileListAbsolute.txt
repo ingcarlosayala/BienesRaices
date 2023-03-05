@@ -1,0 +1,34 @@
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.AccesoDatos.deps.json
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.AccesoDatos.runtimeconfig.json
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.AccesoDatos.dll
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.AccesoDatos.pdb
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.Models.dll
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.Models.pdb
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.dll
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\refint\BienesRaices.AccesoDatos.dll
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.pdb
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Escritorio\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\ref\BienesRaices.AccesoDatos.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.AccesoDatos.deps.json
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.AccesoDatos.runtimeconfig.json
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.AccesoDatos.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.AccesoDatos.pdb
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.Models.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\bin\Debug\net6.0\BienesRaices.Models.pdb
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.csproj.AssemblyReference.cache
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.AssemblyInfoInputs.cache
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.AssemblyInfo.cs
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.csproj.CopyComplete
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\refint\BienesRaices.AccesoDatos.dll
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.pdb
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\BienesRaices.AccesoDatos.genruntimeconfig.cache
+D:\Sistema Completado\BienesRaices\BienesRaices\BienesRaices.AccesoDatos\obj\Debug\net6.0\ref\BienesRaices.AccesoDatos.dll

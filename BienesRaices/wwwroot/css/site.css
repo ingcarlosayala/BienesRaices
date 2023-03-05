@@ -1,0 +1,66 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.imgen-header{
+    background-repeat:no-repeat;
+}
+
+.text-card{
+    font-weight:900;
+}
+
+.dormi {
+    display: flex;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+}
+
+.fondo {
+    background-color: #f3f4f6;
+}
+
+.encuentra{
+    background-image:url(/img/encuentra.jpg);
+    background-position:center center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:400px;
+}
+
+.encuenta-casa {
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.testimoniales{
+    line-height:50px;
+}
+
+.navegacion {
+    display: flex;
+    -webkit-justify-content: start;
+    justify-content: start;
+}
+
+.navegacion a{
+    margin-left: 30px;
+}

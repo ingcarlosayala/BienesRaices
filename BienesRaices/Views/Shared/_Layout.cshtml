@@ -1,0 +1,85 @@
+﻿@using BienesRaices.Utilidades;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BienesRaices</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <!--Pluging-->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
+    <!-- include summernote css/js -->
+    <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/BienesRaices.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm py-3 border-bottom-0 navbar-dark bg-black border-bottom box-shadow">
+            <div class="container">
+                <a class="navbar-brand fs-3" asp-area="" asp-controller="Home" asp-action="Index">Bienes Raíces</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item mx-0">
+                            <a class="nav-link" asp-area="BienesRaices" asp-controller="Home" asp-action="Nosotros">Nosotros</a>
+                        </li>
+                        <li class="nav-item mx-0">
+                            <a class="nav-link" asp-area="BienesRaices" asp-controller="Home" asp-action="Anuncios">Anuncios</a>
+                        </li>
+                        <li class="nav-item mx-0">
+                            <a class="nav-link" asp-area="BienesRaices" asp-controller="Home" asp-action="Index">Blog</a>
+                        </li>
+                        <li class="nav-item mx-0">
+                            <a class="nav-link" asp-area="BienesRaices" asp-controller="Home" asp-action="Index">Contactos</a>
+                        </li>
+                        @if(User.IsInRole(DS.Admin)){
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" asp-area="" asp-controller="" asp-action="" role="button" aria-haspopup="true" aria-expanded="false">Mantenimiento</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Vendedores" asp-action="Index">Vendedor</a>
+                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Propiedades" asp-action="Index">Propiedades</a>
+                                    <a class="dropdown-item" asp-area="Identity" asp-page="/Account/Register">Nuevo Usuario</a>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container-fluid p-0 h-100">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted text-center bg-black p-3">
+        <div class="container">
+           <nav class="navegacion">
+                <a class="nav-link" asp-area="BienesRaices" asp-controller="Home" asp-action="Nosotros">Nosotros</a>
+                <a class="nav-link" asp-area="BienesRaices" asp-controller="Home" asp-action="Anuncios">Anuncios</a>
+                <a class="nav-link" asp-area="BienesRaices" asp-controller="Blog" asp-action="Index">Blog</a>
+                <a class="nav-link" asp-area="BienesRaices" asp-controller="Contactos" asp-action="Index">Contactos</a>
+           </nav>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <!--Plugin-->
+    <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.js"></script>
+    <script src="https://kit.fontawesome.com/1136820722.js" crossorigin="anonymous"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+            @* &copy; 2022 - BienesRaices Ing.Carlos Ayala*@
